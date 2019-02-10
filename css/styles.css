@@ -90,13 +90,13 @@ body {
   animation-duration: 2s;
 }
 
-/*.hearts::after {
-    content: '💗';
-    animation-name: hearts;
-    animation-duration: 3s;
+.hearts::after {
+  content: '💗';
+  animation-name: hearts;
+  animation-duration: 3s;
 }
 
-.wave::after {
+/*.wave::after {
     content: '✋';
     --emoji: '👋';
     animation-name: twoFrames;
