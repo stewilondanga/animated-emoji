@@ -69,13 +69,13 @@ body {
   animation-duration: 1.5s;
 }
 
-/*.moon::after {
-    content: '🌕';
-    animation-name: moon;
-    animation-duration: 1s;
+.moon::after {
+  content: '🌕';
+  animation-name: moon;
+  animation-duration: 1s;
 }
 
-.bomb::after {
+/*.bomb::after {
     content: '💣';
     --emoji: '💥';
     animation-name: twoFrames;
