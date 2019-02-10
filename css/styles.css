@@ -35,13 +35,13 @@ body {
   animation-iteration-count: infinite;
 }
 
-/*.clock::after {
-    content: '🕛';
-    animation-name: clock;
-    animation-duration: 5s;
+.clock::after {
+  content: '🕛';
+  animation-name: clock;
+  animation-duration: 5s;
 }
 
-.mailbox::after {
+/*.mailbox::after {
     content: '📪';
     animation-name: mailbox;
     animation-duration: 2.5s;
