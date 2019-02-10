@@ -75,14 +75,14 @@ body {
   animation-duration: 1s;
 }
 
-/*.bomb::after {
-    content: '💣';
-    --emoji: '💥';
-    animation-name: twoFrames;
-    animation-duration: 2s;
+.bomb::after {
+  content: '💣';
+  --emoji: '💥';
+  animation-name: twoFrames;
+  animation-duration: 2s;
 }
 
-.monkey::after {
+/*.monkey::after {
     content: '🙈';
     --emoji-1: '🙉';
     --emoji-2: '🙊';
