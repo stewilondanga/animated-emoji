@@ -123,17 +123,17 @@ body {
   }
 }
 
-/*@keyframes threeFrames {
-    33.333% {
-        content: var(--emoji-1);
-    }
+@keyframes threeFrames {
+  33.333% {
+    content: var(--emoji-1);
+  }
 
-    66.666% {
-        content: var(--emoji-2);
-    }
+  66.666% {
+    content: var(--emoji-2);
+  }
 }
 
-@keyframes mailbox {
+/*@keyframes mailbox {
     25% {
         content: '📫';
     }
