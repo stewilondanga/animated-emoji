@@ -103,14 +103,14 @@ body {
   animation-duration: 1s;
 }
 
-/*.inbox::after {
-    content: '📥';
-    --emoji: '📤';
-    animation-name: twoFrames;
-    animation-duration: 1s;
+.inbox::after {
+  content: '📥';
+  --emoji: '📤';
+  animation-name: twoFrames;
+  animation-duration: 1s;
 }
 
-.vomit::after {
+/*.vomit::after {
     content: '🤢';
     --emoji: '🤮';
     animation-name: twoFrames;
