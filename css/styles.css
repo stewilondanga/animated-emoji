@@ -82,15 +82,15 @@ body {
   animation-duration: 2s;
 }
 
-/*.monkey::after {
-    content: '🙈';
-    --emoji-1: '🙉';
-    --emoji-2: '🙊';
-    animation-name: threeFrames;
-    animation-duration: 2s;
+.monkey::after {
+  content: '🙈';
+  --emoji-1: '🙉';
+  --emoji-2: '🙊';
+  animation-name: threeFrames;
+  animation-duration: 2s;
 }
 
-.hearts::after {
+/*.hearts::after {
     content: '💗';
     animation-name: hearts;
     animation-duration: 3s;
