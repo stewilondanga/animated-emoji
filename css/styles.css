@@ -96,14 +96,14 @@ body {
   animation-duration: 3s;
 }
 
-/*.wave::after {
-    content: '✋';
-    --emoji: '👋';
-    animation-name: twoFrames;
-    animation-duration: 1s;
+.wave::after {
+  content: '✋';
+  --emoji: '👋';
+  animation-name: twoFrames;
+  animation-duration: 1s;
 }
 
-.inbox::after {
+/*.inbox::after {
     content: '📥';
     --emoji: '📤';
     animation-name: twoFrames;
