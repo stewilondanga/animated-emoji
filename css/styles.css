@@ -117,13 +117,13 @@ body {
   animation-duration: 1s;
 }
 
-/*@keyframes twoFrames {
-    50% {
-        content: var(--emoji);
-    }
+@keyframes twoFrames {
+  50% {
+    content: var(--emoji);
+  }
 }
 
-@keyframes threeFrames {
+/*@keyframes threeFrames {
     33.333% {
         content: var(--emoji-1);
     }
