@@ -47,14 +47,14 @@ body {
   animation-duration: 2.5s;
 }
 
-/*.camera::after {
-    content: '📷';
-    --emoji: '📸';
-    animation-name: twoFrames;
-    animation-duration: 1.2s;
+.camera::after {
+  content: '📷';
+  --emoji: '📸';
+  animation-name: twoFrames;
+  animation-duration: 1.2s;
 }
 
-.hourglass::after {
+/*.hourglass::after {
     content: '⏳';
     --emoji: '⌛️';
     animation-name: twoFrames;
