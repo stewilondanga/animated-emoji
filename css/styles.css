@@ -54,14 +54,14 @@ body {
   animation-duration: 1.2s;
 }
 
-/*.hourglass::after {
-    content: '⏳';
-    --emoji: '⌛️';
-    animation-name: twoFrames;
-    animation-duration: 1.2s;
+.hourglass::after {
+  content: '⏳';
+  --emoji: '⌛️';
+  animation-name: twoFrames;
+  animation-duration: 1.2s;
 }
 
-.earth::after {
+/*.earth::after {
     content: '🌎';
     --emoji-1: '🌍';
     --emoji-2: '🌏';
