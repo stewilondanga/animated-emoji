@@ -133,21 +133,21 @@ body {
   }
 }
 
-/*@keyframes mailbox {
-    25% {
-        content: '📫';
-    }
+@keyframes mailbox {
+  25% {
+    content: '📫';
+  }
 
-    50% {
-        content: '📬';
-    }
+  50% {
+    content: '📬';
+  }
 
-    75% {
-        content: '📭';
-    }
+  75% {
+    content: '📭';
+  }
 }
 
-@keyframes hearts {
+/*@keyframes hearts {
     16.666% {
         content: '🧡';
     }
