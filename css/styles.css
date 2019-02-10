@@ -110,14 +110,14 @@ body {
   animation-duration: 1s;
 }
 
-/*.vomit::after {
-    content: '🤢';
-    --emoji: '🤮';
-    animation-name: twoFrames;
-    animation-duration: 1s;
+.vomit::after {
+  content: '🤢';
+  --emoji: '🤮';
+  animation-name: twoFrames;
+  animation-duration: 1s;
 }
 
-@keyframes twoFrames {
+/*@keyframes twoFrames {
     50% {
         content: var(--emoji);
     }
