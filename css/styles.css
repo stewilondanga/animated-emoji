@@ -41,13 +41,13 @@ body {
   animation-duration: 5s;
 }
 
-/*.mailbox::after {
-    content: '📪';
-    animation-name: mailbox;
-    animation-duration: 2.5s;
+.mailbox::after {
+  content: '📪';
+  animation-name: mailbox;
+  animation-duration: 2.5s;
 }
 
-.camera::after {
+/*.camera::after {
     content: '📷';
     --emoji: '📸';
     animation-name: twoFrames;
