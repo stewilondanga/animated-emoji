@@ -147,29 +147,29 @@ body {
   }
 }
 
-/*@keyframes hearts {
-    16.666% {
-        content: '🧡';
-    }
+@keyframes hearts {
+  16.666% {
+    content: '🧡';
+  }
 
-    33.333% {
-        content: '💛';
-    }
+  33.333% {
+    content: '💛';
+  }
 
-    50% {
-        content: '💚';
-    }
+  50% {
+    content: '💚';
+  }
 
-    66.666% {
-        content: '💙';
-    }
+  66.666% {
+    content: '💙';
+  }
 
-    83.333% {
-        content: '💜';
-    }
+  83.333% {
+    content: '💜';
+  }
 }
 
-@keyframes moon {
+/*@keyframes moon {
     12.5% {
         content: '🌖';
     }
