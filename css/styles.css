@@ -61,15 +61,15 @@ body {
   animation-duration: 1.2s;
 }
 
-/*.earth::after {
-    content: '🌎';
-    --emoji-1: '🌍';
-    --emoji-2: '🌏';
-    animation-name: threeFrames;
-    animation-duration: 1.5s;
+.earth::after {
+  content: '🌎';
+  --emoji-1: '🌍';
+  --emoji-2: '🌏';
+  animation-name: threeFrames;
+  animation-duration: 1.5s;
 }
 
-.moon::after {
+/*.moon::after {
     content: '🌕';
     animation-name: moon;
     animation-duration: 1s;
