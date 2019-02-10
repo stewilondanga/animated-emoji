@@ -169,37 +169,37 @@ body {
   }
 }
 
-/*@keyframes moon {
-    12.5% {
-        content: '🌖';
-    }
+@keyframes moon {
+  12.5% {
+    content: '🌖';
+  }
 
-    25% {
-        content: '🌗';
-    }
+  25% {
+    content: '🌗';
+  }
 
-    37.5% {
-        content: '🌘 ';
-    }
+  37.5% {
+    content: '🌘 ';
+  }
 
-    50% {
-        content: '🌑';
-    }
+  50% {
+    content: '🌑';
+  }
 
-    62.5% {
-        content: '🌒';
-    }
+  62.5% {
+    content: '🌒';
+  }
 
-    75% {
-        content: '🌓';
-    }
+  75% {
+    content: '🌓';
+  }
 
-    87.5% {
-        content: '🌔';
-    }
+  87.5% {
+    content: '🌔';
+  }
 }
 
-@keyframes clock {
+/*@keyframes clock {
     8.333% {
         content: '🕐';
     }
